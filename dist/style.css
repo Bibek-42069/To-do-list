@@ -37,6 +37,11 @@ html, body{
     font-size: 1.25rem;
 }
 
+.header img {
+    width: 30px;
+    padding-top: 5px;
+}
+
 .navigation{
     background-color: rgb(230, 230, 230);
     grid-row: 2 / span 3;
